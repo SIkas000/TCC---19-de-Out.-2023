@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00BA3DC9-0382-49D7-88A2-15642844FD03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SGI.My.MyApplication</StartupObject>
+    <RootNamespace>SGI</RootNamespace>
+    <AssemblyName>SGI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SGI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SGI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Text</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logoTina.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>98C0FEEEBAD59D66596FED1A58FB3D1F1F810236</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SGI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="NReco.PdfGenerator, Version=1.1.15.0, Culture=neutral, PublicKeyToken=231663d50a41b451, processorArchitecture=MSIL">
+      <HintPath>..\packages\NReco.PdfGenerator.1.1.15\lib\net20\NReco.PdfGenerator.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BancoTinaImoveisDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BancoTinaImoveisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\ClsBanco.vb" />
+    <Compile Include="Classes\ClsEvento.vb" />
+    <Compile Include="Classes\ClsFinanceiro.vb" />
+    <Compile Include="Classes\ClsImo.vb" />
+    <Compile Include="Classes\ClsInq.vb" />
+    <Compile Include="Classes\ClsLoc.vb" />
+    <Compile Include="Classes\ClsProp.vb" />
+    <Compile Include="Classes\ClsVis.vb" />
+    <Compile Include="OutrasTelas\EstatisticasPag.Designer.vb">
+      <DependentUpon>EstatisticasPag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutrasTelas\EstatisticasPag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutrasTelas\HistPag.Designer.vb">
+      <DependentUpon>HistPag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutrasTelas\HistPag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisas\PesqImo.Designer.vb">
+      <DependentUpon>PesqImo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisas\PesqImo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisas\PesqInq.Designer.vb">
+      <DependentUpon>PesqInq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisas\PesqInq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisas\PesqLoc.Designer.vb">
+      <DependentUpon>PesqLoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisas\PesqLoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisas\PesqProp.Designer.vb">
+      <DependentUpon>PesqProp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisas\PesqProp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutrasTelas\SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutrasTelas\SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasCadastros\CadImovel.Designer.vb">
+      <DependentUpon>CadImovel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasCadastros\CadImovel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasCadastros\CadInquilino.Designer.vb">
+      <DependentUpon>CadInquilino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasCadastros\CadInquilino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasCadastros\CadLocacao.Designer.vb">
+      <DependentUpon>CadLocacao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasCadastros\CadLocacao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasCadastros\CadProprietario.Designer.vb">
+      <DependentUpon>CadProprietario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasCadastros\CadProprietario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\Boleto.Designer.vb">
+      <DependentUpon>Boleto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Boleto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\CadastrosConsultas.Designer.vb">
+      <DependentUpon>CadastrosConsultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\CadastrosConsultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\Calendario.Designer.vb">
+      <DependentUpon>Calendario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Calendario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutrasTelas\CadPagamentos.Designer.vb">
+      <DependentUpon>CadPagamentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutrasTelas\CadPagamentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\PaginaInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\PaginaInicial.Designer.vb">
+      <DependentUpon>PaginaInicial.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Classes\RGBColors.vb" />
+    <Compile Include="TelasIniciais\Status.Designer.vb">
+      <DependentUpon>Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\TelaLogin.Designer.vb">
+      <DependentUpon>TelaLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\TelaLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelasIniciais\Vistorias.Designer.vb">
+      <DependentUpon>Vistorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TelasIniciais\Vistorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="OutrasTelas\EstatisticasPag.resx">
+      <DependentUpon>EstatisticasPag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutrasTelas\HistPag.resx">
+      <DependentUpon>HistPag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisas\PesqImo.resx">
+      <DependentUpon>PesqImo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisas\PesqInq.resx">
+      <DependentUpon>PesqInq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisas\PesqLoc.resx">
+      <DependentUpon>PesqLoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisas\PesqProp.resx">
+      <DependentUpon>PesqProp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutrasTelas\SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasCadastros\CadImovel.resx">
+      <DependentUpon>CadImovel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasCadastros\CadInquilino.resx">
+      <DependentUpon>CadInquilino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasCadastros\CadLocacao.resx">
+      <DependentUpon>CadLocacao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasCadastros\CadProprietario.resx">
+      <DependentUpon>CadProprietario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\Boleto.resx">
+      <DependentUpon>Boleto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\CadastrosConsultas.resx">
+      <DependentUpon>CadastrosConsultas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\Calendario.resx">
+      <DependentUpon>Calendario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutrasTelas\CadPagamentos.resx">
+      <DependentUpon>CadPagamentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\PaginaInicial.resx">
+      <DependentUpon>PaginaInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\Status.resx">
+      <DependentUpon>Status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\TelaLogin.resx">
+      <DependentUpon>TelaLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelasIniciais\Vistorias.resx">
+      <DependentUpon>Vistorias.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BancoTinaImoveisDataSet.xsc">
+      <DependentUpon>BancoTinaImoveisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BancoTinaImoveisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BancoTinaImoveisDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BancoTinaImoveisDataSet.xss">
+      <DependentUpon>BancoTinaImoveisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="Resources\A capital da vertigem - Roberto Pompeu de Toledo.pdf" />
+    <None Include="Resources\Manual SGI v1.pdf" />
+    <None Include="SGI_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoTinaBranco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoTinaBrancoAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseRed.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BancoTinaImoveis.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="logoTina.ico" />
+    <None Include="Resources\x.png" />
+    <None Include="Resources\icoUsuario.png" />
+    <None Include="Resources\icoSenha.png" />
+    <None Include="Resources\olho.png" />
+    <None Include="Resources\olho-cruzado.png" />
+    <None Include="Resources\bgLogin.png" />
+    <None Include="Resources\bg-techbridge.png" />
+    <None Include="Resources\vereventosrelacionadosaesse_196_56.png" />
+    <None Include="Resources\pesquisarcodigoimovel_336_45.png" />
+    <None Include="Resources\pesquisarcodigodoproprietario_375_44.png" />
+    <None Include="Resources\pesquisarcodigodoinquilino_303_45.png" />
+    <None Include="Resources\pesquisarcodigodoimovel_313_50.png" />
+    <None Include="Resources\pesquisarcodigodoimovel_303_45.png" />
+    <None Include="Resources\pesquisarcaminho_165_45.png" />
+    <None Include="Resources\outro_321_195.png" />
+    <None Include="Resources\boleto_321_195.png" />
+    <None Include="Resources\abrirdocumento_165_45.png" />
+    <None Include="Resources\btnPagCad.png" />
+    <None Include="Resources\btnMosHis.png" />
+    <None Include="Resources\ManualPdf.bmp" />
+    <None Include="Resources\btnPDF.png" />
+    <None Include="Resources\btnLocacao.png" />
+    <None Include="Resources\btnImprimir.png" />
+    <None Include="Resources\btnEstatisticas.png" />
+    <None Include="Resources\btnCadPag.png" />
+    <None Include="Resources\icoEditar.png" />
+    <None Include="Resources\IcoLixo.png" />
+    <None Include="Resources\IcoVoltar.png" />
+    <None Include="Resources\IcoSalvar.png" />
+    <None Include="Resources\IcoProcurar.png" />
+    <None Include="Resources\IcoDeletar.png" />
+    <None Include="Resources\IcoAdd.png" />
+    <None Include="Resources\seta-para-a-esquerda.png" />
+    <None Include="Resources\iconSetaEsquerda.png" />
+    <None Include="Resources\iconLupa64.png" />
+    <None Include="Resources\iconCancelar64.png" />
+    <None Include="Resources\background2.png" />
+    <None Include="Resources\background1.png" />
+    <None Include="Resources\splashscreen_sgi.png" />
+    <None Include="Resources\iconEditar.png" />
+    <None Include="Resources\proprietarios2.png" />
+    <None Include="Resources\proprietarios1.png" />
+    <None Include="Resources\locacoes2.png" />
+    <None Include="Resources\locacoes1.png" />
+    <None Include="Resources\inquilinos2.png" />
+    <None Include="Resources\inquilinos1.png" />
+    <None Include="Resources\imoveis2.png" />
+    <None Include="Resources\imoveis1.png" />
+    <None Include="Resources\funcionarios2.png" />
+    <None Include="Resources\funcionarios1.png" />
+    <None Include="Resources\IconLixeira.png" />
+    <None Include="Resources\IconConfirmar.png" />
+    <None Include="Resources\IconAdd.png" />
+    <None Include="Resources\imoveisAzul.png" />
+    <None Include="Resources\funcionario2.png" />
+    <None Include="Resources\9.png" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\10.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\background.png" />
+    <None Include="Resources\icons8-redimensionar-diagonal-64.png" />
+    <None Include="Resources\icons8-lixo-64.png" />
+    <None Include="Resources\icons8-caixa-de-seleção-marcada-64.png" />
+    <None Include="Resources\undraw_Dog_c7i6__1_-removebg-preview.png" />
+    <None Include="Resources\undraw_Dog_c7i6 %281%29.png" />
+    <None Include="Resources\undraw_Dog_c7i6-removebg-preview1.png" />
+    <None Include="Resources\undraw_Dog_c7i6-removebg-preview.png" />
+    <None Include="Resources\undraw_Dog_c7i6.png" />
+    <None Include="Resources\undraw_dog_c7i6.svg" />
+    <None Include="Resources\icons8-mais-2-matemática-64.png" />
+    <None Include="Resources\icons8-mais-2-matemática-30.png" />
+    <None Include="Resources\icons8-chamada-em-conferência-30.png" />
+    <None Include="Resources\checklist.png" />
+    <None Include="Resources\manual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\Boleto2.Net.csproj">
+      <Project>{F173E80B-E36B-48AD-B483-A27F8CA86F3C}</Project>
+      <Name>Boleto2.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

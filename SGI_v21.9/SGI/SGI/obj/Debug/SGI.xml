@@ -1,0 +1,621 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SGI
+</name>
+</assembly>
+<members>
+<member name="T:SGI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources._10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.abrirdocumento_165_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.background2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.bg_techbridge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.bgLogin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.boleto_321_195">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnCadPag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnEstatisticas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnImprimir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnLocacao">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnMosHis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnPagCad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.btnPDF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.calculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.checklist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.closeRed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.dogred">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.exit__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.funcionario2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.funcionarios1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.funcionarios2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoAdd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoDeletar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.icoEditar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoLixo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IconAdd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.iconCancelar64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IconConfirmar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.iconEditar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IconLixeira">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.iconLupa64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.iconSetaEsquerda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoProcurar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoSalvar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.icoSenha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.icoUsuario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.IcoVoltar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.imoveis1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.imoveis2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.imoveisAzul">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.inquilinos1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.inquilinos2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.locacoes1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.locacoes2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.logoTinaBranco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.logoTinaBranco1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.logoTinaBrancoAzul">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.manual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.Manual_SGI_v1">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.maximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.minimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.olho">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.olho_cruzado">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.outro_321_195">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.people">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcaminho_165_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcodigodoimovel_303_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcodigodoimovel_313_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcodigodoinquilino_303_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcodigodoproprietario_375_44">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.pesquisarcodigoimovel_336_45">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.proprietarios1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.proprietarios2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.register">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.seta_para_a_esquerda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.splashscreen_sgi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.status">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.vereventosrelacionadosaesse_196_56">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SGI.My.Resources.Resources.x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabeveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabimovDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabinqDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tablocDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabPagamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabpropDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabvistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabeveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabimovRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabinqRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tablocRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabPagamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabpropRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabvistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabeveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabimovRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabinqRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tablocRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabPagamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabpropRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSet.tabvistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabeveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabimovTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabinqTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tablocTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabPagamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabpropTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.tabvistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGI.BancoTinaImoveisDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGI.BancoTinaImoveisDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGI.BancoTinaImoveisDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.UpdateAll(SGI.BancoTinaImoveisDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SGI.BancoTinaImoveisDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

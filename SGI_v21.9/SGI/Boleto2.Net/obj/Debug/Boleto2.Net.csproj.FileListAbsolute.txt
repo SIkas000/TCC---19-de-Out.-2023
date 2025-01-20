@@ -1,0 +1,122 @@
+C:\Users\Marcio\Desktop\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\Marcio\Desktop\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\Marcio\Desktop\Temp\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csprojAssemblyReference.cache
+D:\Projetos Youtube\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+D:\Projetos Youtube\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csprojResolveAssemblyReference.cache
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.Cache
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.dll
+D:\Projetos Youtube\ProjetoGerarBoleto\boleto2net-master\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+D:\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+D:\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csprojResolveAssemblyReference.cache
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.Cache
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.dll
+D:\Projetos Youtube\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\55119\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\55119\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csprojAssemblyReference.cache
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\55119\3D Objects\BoletoNet\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\55119\3D Objects\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\55119\3D Objects\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csprojAssemblyReference.cache
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\55119\3D Objects\SGI_v19\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v19.2\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csprojAssemblyReference.cache
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\55119\3D Objects\SGI_v19.6\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+E:\TechBridge\SGI_v20_Boleto\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+E:\TechBridge\SGI_v20_Boleto\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+E:\TechBridge\SGI_v20_Boleto\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v20.3\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v20.3\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v20.3\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v20.5\SGI_v20.4\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v21\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\21010784\Documents\Visual Studio 2013\Projects\SGI_v21.4\SGI_v21.4\SGI_v21\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v21.6\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v21.6\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\Heitoque\source\repos\SGI_v21.6\SGI_v20_Boleto\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
+C:\Users\21010649\Desktop\SGI_v21.7\Recursos\Referencias\Boleto2.Net\Boleto2Net.dll
+C:\Users\21010649\Desktop\SGI_v21.7\Recursos\Referencias\Boleto2.Net\Boleto2Net.pdb
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.AssemblyReference.cache
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2Net.Html.resources
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.GenerateResource.cache
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CoreCompileInputs.cache
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2.Net.csproj.CopyComplete
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2Net.dll
+C:\Users\21010649\Desktop\SGI_v21.7\SGI\SGI\Boleto2.Net\obj\Debug\Boleto2Net.pdb
